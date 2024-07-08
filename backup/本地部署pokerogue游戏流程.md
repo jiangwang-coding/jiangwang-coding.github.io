@@ -2,13 +2,15 @@
 
 1.安装Node.js和git环境
 
-2.克隆Pokerogue的GitHub仓库： git clone https://github.com/pagefaultgames/pokerogue.git 
+2.克隆Pokerogue的GitHub仓库： git clone https://github.com/pagefaultgames/pokerogue.git   
 
-3.在项目中安装游戏依赖：npm install   
+3.进入项目目录：cd pokerogue
 
-4.启动游戏服务器：npm run start:dev
+4.安装游戏依赖：npm install   
 
-5.访问进入游戏：http://localhost:8000/  
+5.启动游戏服务器：npm run start:dev
+
+6.访问进入游戏：http://localhost:8000/  
 
 ## 图片说明
 
