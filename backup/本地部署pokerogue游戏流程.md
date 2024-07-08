@@ -10,7 +10,7 @@
 
 5.访问进入游戏：http://localhost:8000/  
 
-## 图片说明
+## 一些图片演示
 
 ![1720424188632](https://github.com/jiangwang-coding/jiangwang-coding.github.io/assets/138269898/bed95af9-210b-4835-9f9b-7449dd7001c2)
 
