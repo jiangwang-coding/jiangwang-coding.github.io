@@ -1,11 +1,10 @@
-
 ## 本地部署游戏流程
 
-1.安装Node.js和git 环境
+1.安装Node.js和git环境
 
 2.克隆Pokerogue的GitHub仓库： git clone https://github.com/pagefaultgames/pokerogue.git 
 
-3.安装游戏依赖：npm install   
+3.在项目中安装游戏依赖：npm install   
 
 4.启动游戏服务器：npm run start:dev
 
