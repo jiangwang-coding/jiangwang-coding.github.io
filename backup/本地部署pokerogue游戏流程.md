@@ -4,13 +4,11 @@
 
 2.克隆Pokerogue的GitHub仓库： git clone https://github.com/pagefaultgames/pokerogue.git   
 
-3.进入项目目录：cd pokerogue
+3.安装游戏依赖：npm install   
 
-4.安装游戏依赖：npm install   
+4.启动游戏服务器：npm run start:dev
 
-5.启动游戏服务器：npm run start:dev
-
-6.访问进入游戏：http://localhost:8000/  
+5.访问进入游戏：http://localhost:8000/  
 
 ## 图片说明
 

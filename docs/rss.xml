@@ -1,17 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>PQHD的博客</title><link>https://jiangwang-coding.github.io</link><description>我是PQHD，分享一些有用的知识的UP主</description><copyright>PQHD的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/138269898?v=4</url><title>avatar</title><link>https://jiangwang-coding.github.io</link></image><lastBuildDate>Mon, 08 Jul 2024 17:42:37 +0000</lastBuildDate><managingEditor>PQHD的博客</managingEditor><ttl>60</ttl><webMaster>PQHD的博客</webMaster><item><title>本地部署pokerogue游戏流程</title><link>https://jiangwang-coding.github.io/post/ben-di-bu-shu-pokerogue-you-xi-liu-cheng.html</link><description>## 本地部署游戏流程&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>PQHD的博客</title><link>https://jiangwang-coding.github.io</link><description>我是PQHD，分享一些有用的知识的UP主</description><copyright>PQHD的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/138269898?v=4</url><title>avatar</title><link>https://jiangwang-coding.github.io</link></image><lastBuildDate>Mon, 08 Jul 2024 17:44:39 +0000</lastBuildDate><managingEditor>PQHD的博客</managingEditor><ttl>60</ttl><webMaster>PQHD的博客</webMaster><item><title>本地部署pokerogue游戏流程</title><link>https://jiangwang-coding.github.io/post/ben-di-bu-shu-pokerogue-you-xi-liu-cheng.html</link><description>## 本地部署游戏流程&#13;
 &#13;
 1.安装Node.js和git环境&#13;
 &#13;
 2.克隆Pokerogue的GitHub仓库： git clone https://github.com/pagefaultgames/pokerogue.git   &#13;
 &#13;
-3.进入项目目录：cd pokerogue&#13;
+3.安装游戏依赖：npm install   &#13;
 &#13;
-4.安装游戏依赖：npm install   &#13;
+4.启动游戏服务器：npm run start:dev&#13;
 &#13;
-5.启动游戏服务器：npm run start:dev&#13;
-&#13;
-6.访问进入游戏：http://localhost:8000/  &#13;
+5.访问进入游戏：http://localhost:8000/  &#13;
 &#13;
 ## 图片说明&#13;
 &#13;
